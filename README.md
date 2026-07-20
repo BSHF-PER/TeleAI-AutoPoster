@@ -205,7 +205,10 @@ OpenRouter gives you access to hundreds of models (GPT-4o, Claude, Llama, Mistra
      - `meta-llama/llama-3.1-70b-instruct`
      - `deepseek/deepseek-chat`
      - `mistralai/mistral-large`
-   - **Image Model**: OpenRouter does not support image generation. Leave **empty** or use a separate OpenAI key for images.
+   - **Image Model**: Use OpenRouter model IDs, e.g.:
+     - `openai/gpt-image-2`
+     - `black-forest-labs/flux.2-klein-4b`
+
 5. Click **Save Settings**.
 
 > **Tip:** Browse all available models at [https://openrouter.ai/models](https://openrouter.ai/models).
