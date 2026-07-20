@@ -433,7 +433,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <p align="center">
   <strong>Behzad Shahbazi Fard</strong><br/>
-  <em>Persian Developer</em><br/><br/>
+  <em>Persian Developer 🇮🇷🦁</em><br/><br/>
   <a href="https://github.com/BSHF-PER">github.com/BSHF-PER</a>
 </p>
 
