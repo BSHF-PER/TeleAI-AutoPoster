@@ -53,6 +53,8 @@
 
 Whether you run a news channel, an educational page, a marketing funnel, or a personal blog on Telegram, TeleAI-AutoPoster handles the entire pipeline: **ideation → writing → image generation → publishing**.
 
+![App Screenshot](https://raw.githubusercontent.com/BSHF-PER/TeleAI-AutoPoster/refs/heads/main/Preview-1.png)
+![App Screenshot](https://raw.githubusercontent.com/BSHF-PER/TeleAI-AutoPoster/refs/heads/main/Preview-2.png)
 ---
 
 ## Features
